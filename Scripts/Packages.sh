@@ -36,6 +36,8 @@ UPDATE_PACKAGE "ssr-plus" "fw876/helloworld" "master"
 UPDATE_PACKAGE "pgyvpn" "kiddin9/openwrt-packages" "master" "pkg"
 UPDATE_PACKAGE "phtunnel" "kiddin9/openwrt-packages" "master" "pkg"
 UPDATE_PACKAGE "wrtbwmon" "kiddin9/openwrt-packages" "master" "pkg"
+UPDATE_PACKAGE "shortcut-fe" "kiddin9/openwrt-packages" "master" "pkg"
+UPDATE_PACKAGE "fancontrol" "kiddin9/openwrt-packages" "master" "pkg"
 
 UPDATE_PACKAGE "luci-app-advancedplus" "VIKINGYFY/luci-app-advancedplus" "main"
 UPDATE_PACKAGE "luci-app-gecoosac" "lwb1978/openwrt-gecoosac" "main"
