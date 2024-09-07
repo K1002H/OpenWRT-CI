@@ -37,6 +37,7 @@ UPDATE_PACKAGE "pgyvpn" "kiddin9/openwrt-packages" "master" "pkg"
 UPDATE_PACKAGE "phtunnel" "kiddin9/openwrt-packages" "master" "pkg"
 UPDATE_PACKAGE "wrtbwmon" "kiddin9/openwrt-packages" "master" "pkg"
 UPDATE_PACKAGE "lucky" "kiddin9/openwrt-packages" "master" "pkg"
+UPDATE_PACKAGE "quickstart" "kiddin9/openwrt-packages" "master" "pkg"
 #UPDATE_PACKAGE "shortcut-fe" "kiddin9/openwrt-packages" "master" "pkg"
 #UPDATE_PACKAGE "fancontrol" "kiddin9/openwrt-packages" "master" "pkg"
 
@@ -54,6 +55,7 @@ UPDATE_PACKAGE "luci-app-broadbandacc" "kiddin9/openwrt-packages" "master" "pkg"
 #UPDATE_PACKAGE "luci-app-fan" "kiddin9/openwrt-packages" "master" "pkg"
 UPDATE_PACKAGE "luci-app-v2ray-server" "kiddin9/openwrt-packages" "master" "pkg"
 UPDATE_PACKAGE "luci-app-lucky" "kiddin9/openwrt-packages" "master" "pkg"
+UPDATE_PACKAGE "luci-app-quickstart" "kiddin9/openwrt-packages" "master" "pkg"
 
 if [[ $WRT_REPO == *"openwrt-6.x"* ]]; then
 	UPDATE_PACKAGE "qmi-wwan" "immortalwrt/wwan-packages" "master" "pkg"
