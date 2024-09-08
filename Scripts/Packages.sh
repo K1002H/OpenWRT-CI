@@ -55,7 +55,7 @@ UPDATE_PACKAGE "luci-app-webadmin" "kiddin9/openwrt-packages" "master" "pkg"
 UPDATE_PACKAGE "luci-app-broadbandacc" "kiddin9/openwrt-packages" "master" "pkg"
 #UPDATE_PACKAGE "luci-app-fan" "kiddin9/openwrt-packages" "master" "pkg"
 UPDATE_PACKAGE "luci-app-v2ray-server" "kiddin9/openwrt-packages" "master" "pkg"
-UPDATE_PACKAGE "luci-app-lucky" "K1002H/luci-app-lucky" "2" "pkg"
+UPDATE_PACKAGE "luci-app-lucky" "kiddin9/openwrt-packages" "master" "pkg"
 #UPDATE_PACKAGE "luci-app-quickstart" "kiddin9/openwrt-packages" "master" "pkg"
 
 if [[ $WRT_REPO == *"openwrt-6.x"* ]]; then
